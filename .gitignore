@@ -1,0 +1,13 @@
+# Internal delivery materials (kept in the local complete package)
+/docs/
+/tools/
+/assets/source/
+/MANIFEST.sha256
+*.zip
+*.sha256
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
