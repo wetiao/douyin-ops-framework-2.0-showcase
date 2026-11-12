@@ -1,6 +1,8 @@
 # 本地预览
 
-这是“抖音运营框架 2.0”商业展示页的本地静态预览，不连接正式后台，不读取账号、Cookie、密钥或运行数据。
+在线产品页：https://wetiao.github.io/douyin-ops-framework-2.0-showcase/preview/
+
+这是“抖音运营框架 2.0”商业展示页的静态页面，不连接正式后台，不读取账号、Cookie、密钥或运行数据。
 
 ## 打开方式
 

@@ -20,7 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="#contact"><strong>预约演示 / 获取报价 →</strong></a>
+  <a href="https://wetiao.github.io/douyin-ops-framework-2.0-showcase/preview/"><strong>在线产品页 →</strong></a> ·
+  <a href="#contact"><strong>预约演示 / 获取报价</strong></a>
 </p>
 
 <p align="center">
@@ -484,7 +485,8 @@ AI Skill 能显著降低“查接口、写工程、跑验证”的门槛，但�
 
 ## 事实与展示口径
 
-- **产品版本依据**：Python SDK **1.2.0**、开发包 **1.5.1**、AI Skill **1.5.2**；能力目录 **1.1**。
+- **版本依据**：Python SDK **1.2.0**、开发包 **1.5.1**、AI Skill **1.5.2**；能力目录 **1.1**。
+- **在线产品页**：[wetiao.github.io/douyin-ops-framework-2.0-showcase](https://wetiao.github.io/douyin-ops-framework-2.0-showcase/preview/)。
 - **接口数量口径**：**61 项名称 + 版本**，不是 61 个已验收插件；目录含已有适配器、仅契约扩展和需人工确认的条目，实际可用性以目标宿主运行时目录与实例授权为准。
 - **AI 边界**：真实 AI 文本执行默认关闭；需要模型配置、用途绑定、外发授权、额度和运行开关，且单独验收。
 - **平台写入边界**：发评论、进房、离房等写操作在插件通道需要人工确认，不作为自动群发能力宣传。

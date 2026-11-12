@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wetiao.github.io/douyin-ops-framework-2.0-showcase/sitemap.xml
